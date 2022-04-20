@@ -14,4 +14,4 @@ tree/pyramid.
 
 2. Keep the amount of code inside a single non-function block to a minimum. Try
    to write as much code that runs without condition as possible relative to the
-   surrounding block as possible. Avoid branching at all costs!
+   surrounding block. Avoid branching at all costs!
