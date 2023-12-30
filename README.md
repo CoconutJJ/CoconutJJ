@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-You can learn more about me at [davidyue.live](https://davidyue.live/)
+You can learn more about me at [davidyue.me](https://davidyue.me/)
