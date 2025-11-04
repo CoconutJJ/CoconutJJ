@@ -21,10 +21,6 @@ Previously:
 
 - 🖥️ I run [Vancouver Web Studio](http://vancouverwebstudio.ca)
 - 🎓 I offer [tutoring](https://davidyue.me/tutoring) for K–12 and undergraduate CS students, especially in systems topics.
-- 📝 I provide **free Statement of Purpose (SoP) reviews** for CS Ph.D. applicants. Just send an email with **[SoP Review]** in the subject:  
-  📧 `davidyue5819@gmail.com`
-
-> Please treat my advice as guidance from personal experience — I'm not on any admissions committee. I’ve also written a [blog post about my application process](https://davidyue.me/posts/graduate-application-process/).
 
 ---
 
