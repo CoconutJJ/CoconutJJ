@@ -1,1 +1,1 @@
-![](resume.svg)
+![](https://davidyue.me/assets/resume.svg?ref=github)
